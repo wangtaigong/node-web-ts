@@ -1,15 +1,20 @@
 {
-  "name": "testkoa",
+  "name": "node-web-ts",
   "version": "1.0.0",
-  "description": "test koa",
+  "description": "node web based on koa",
   "main": "main.js",
   "scripts": {
     "dev": "ts-node-dev src/main.ts",
     "test": "test"
   },
   "keywords": [
-    "test",
-    "koa"
+    "node",
+    "koa",
+    "framework",
+    "ts",
+    "typescript",
+    "hot",
+    "compilation"
   ],
   "author": "zhang.tigerkin",
   "license": "MIT",
