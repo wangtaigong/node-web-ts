@@ -1,0 +1,27 @@
+{
+  "name": "testkoa",
+  "version": "1.0.0",
+  "description": "test koa",
+  "main": "main.js",
+  "scripts": {
+    "dev": "ts-node-dev src/main.ts",
+    "test": "test"
+  },
+  "keywords": [
+    "test",
+    "koa"
+  ],
+  "author": "zhang.tigerkin",
+  "license": "ISC",
+  "dependencies": {
+    "@types/koa": "^2.0.52",
+    "koa": "^2.11.0"
+  },
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.6.1",
+    "@typescript-eslint/parser": "^2.6.1",
+    "eslint": "^6.6.0",
+    "ts-node-dev": "^1.0.0-pre.44",
+    "typescript": "^3.7.2"
+  }
+}
